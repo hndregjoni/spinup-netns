@@ -5,7 +5,7 @@ Quick script to spin up a network namespace alongside a bash instance. cleanup o
 `spinup-netns.sh [-h] -i INTERFACE [-n INDEX]`
 
 - -h: Usage
-- -i: Network interace
+- -i: Network interface
 - -n: Index for naming the namespaces so they don't collide
 
 # Credits
